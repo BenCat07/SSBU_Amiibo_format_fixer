@@ -1,0 +1,15 @@
+{
+  "name": "ssbu_amiibo_format_fixer",
+  "version": "1.0.0",
+  "description": "Fixes the wrong file format output by the SSBU_Amiibo tool",
+  "main": "convert.js",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lightcat",
+  "license": "UNLICENSED"
+}
